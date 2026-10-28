@@ -11,3 +11,5 @@
 ## Day 16
 
 Learning Git basics and creating my first repository.
+
+learning is very speed
